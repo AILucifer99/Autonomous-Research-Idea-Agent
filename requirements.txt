@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-tavily
+langgraph
+streamlit
+ipykernel
+pandas
+pydantic>=2.0
+google-genai
+python-dotenv
+rich>=13.7.0
